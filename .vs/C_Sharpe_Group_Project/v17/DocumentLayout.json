@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\Forms\\SignUpForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project\\Forms\\SignUpForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\.gitignore",
-              "RelativeDocumentMoniker": "Project\\.gitignore",
-              "ToolTip": "D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\.gitignore",
-              "RelativeToolTip": "Project\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-19T08:12:04.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SignUpForm.cs",
               "DocumentMoniker": "D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\Forms\\SignUpForm.cs",
               "RelativeDocumentMoniker": "Project\\Forms\\SignUpForm.cs",
               "ToolTip": "D:\\C_sharp_Practice\\C_Sharpe_Group_Project\\Project\\Forms\\SignUpForm.cs",
               "RelativeToolTip": "Project\\Forms\\SignUpForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T08:10:39.805Z",
               "EditorCaption": ""
