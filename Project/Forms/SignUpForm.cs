@@ -21,5 +21,32 @@ namespace Project.Forms
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void name_txt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Signup_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }

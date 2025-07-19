@@ -8,3 +8,4 @@ D:\C_sharp_Practice\C_Sharpe_Group_Project\Project\bin\Debug\Project.pdb
 D:\C_sharp_Practice\C_Sharpe_Group_Project\Project\obj\Debug\Project.Forms.SignUpForm.resources
 D:\C_sharp_Practice\C_Sharpe_Group_Project\Project\obj\Debug\Project.exe
 D:\C_sharp_Practice\C_Sharpe_Group_Project\Project\obj\Debug\Project.pdb
+D:\C_sharp_Practice\C_Sharpe_Group_Project\Project\obj\Debug\Project.exe.config
