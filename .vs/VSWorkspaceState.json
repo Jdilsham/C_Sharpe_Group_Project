@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Project",
+    "\\Project\\Forms"
   ],
+  "SelectedNode": "\\Project\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
