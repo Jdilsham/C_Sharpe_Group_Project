@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="Resources\g_logo.png" />
     <Content Include="Resources\signup_photo.jpg" />
   </ItemGroup>
   <ItemGroup>
