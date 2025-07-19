@@ -44,6 +44,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.Login_link = new System.Windows.Forms.LinkLabel();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -151,7 +152,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(159, 574);
+            this.label4.Location = new System.Drawing.Point(168, 547);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(99, 13);
             this.label4.TabIndex = 14;
@@ -189,7 +190,7 @@
             // 
             this.Login_link.AccessibleName = "Login_link";
             this.Login_link.AutoSize = true;
-            this.Login_link.Location = new System.Drawing.Point(255, 574);
+            this.Login_link.Location = new System.Drawing.Point(263, 547);
             this.Login_link.Name = "Login_link";
             this.Login_link.Size = new System.Drawing.Size(33, 13);
             this.Login_link.TabIndex = 18;
@@ -202,17 +203,29 @@
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(70, 485);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(154, 25);
+            this.button1.Size = new System.Drawing.Size(149, 25);
             this.button1.TabIndex = 19;
             this.button1.Text = "Sign in with Google";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(243, 485);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(149, 25);
+            this.button2.TabIndex = 20;
+            this.button2.Text = "Sign in with Apple";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // SignUpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1084, 661);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Login_link);
             this.Controls.Add(this.label5);
@@ -255,5 +268,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.LinkLabel Login_link;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
